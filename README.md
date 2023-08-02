@@ -7,7 +7,7 @@ This script downloads a YouTube video with a resolution of 720p using the PyTube
 Before you begin, ensure you have met the following requirements:
 
 * You have installed Python 3.6 or later.
-* You have installed the PyTube library. You can install this using pip:
+* You have installed the PyTube library. You can install this using pip: `pip install pytube`
 
 ## Using YouTube Video Downloader
 
