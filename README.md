@@ -26,5 +26,5 @@ If you want to contact me you can reach me at `your_email@domain.com`.
 
 ## License
 
-This project uses the following license: [license_name](https://github.com/deividuska/YouTubeVideoDownloader/blob/main/LICENSE).
+This project uses the following license: [MIT License](https://github.com/deividuska/YouTubeVideoDownloader/blob/main/LICENSE).
 
