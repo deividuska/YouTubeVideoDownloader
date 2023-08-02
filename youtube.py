@@ -10,7 +10,7 @@ from pytube import YouTube
 # Specify the URL of the video that you want to download
 video_url = 'https://youtu.be/your-video-url'
 
-# Specify the location where you want to save the video
+# Specify the location where you want to save the video (save_path='path')
 save_path = 'videos'
 
 # Create a YouTube object
